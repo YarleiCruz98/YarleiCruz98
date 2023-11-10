@@ -2,13 +2,12 @@
 
 <br>
 
-<a href="https://github.com/YarleiCruz98">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=YarleiCruz98&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/YarleiCruz98/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YarleiCruz98&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
-</a>
-
+<div>
+  <a href="https://github.com/YarleiCruz98">
+  <img height="150em"src="https://github-readme-stats.vercel.app/api?username=YarleiCruz98&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=yarleicruz98)"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YarleiCruz98&layout=compact&langs_count=7&theme=radical"/>
+</div>
+    
 <div style="display: "inline_block" flex; align-items: center ><br>
   <img align="center" alt="Javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Cypress" height="40" width="40" src="https://cdn.discordapp.com/attachments/1001284237221171221/1167452259672674325/channels4_profile-PhotoRoom.png-PhotoRoom.png?ex=654e2da4">
