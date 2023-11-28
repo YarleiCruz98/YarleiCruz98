@@ -6,7 +6,6 @@
   <a href="https://github.com/YarleiCruz98">
   <img height="150em"src="https://github-readme-stats.vercel.app/api?username=YarleiCruz98&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YarleiCruz98&layout=compact&langs_count=7&theme=radical"/>
-    https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
 </div>
     
 <div style="display: "inline_block" flex; align-items: center ><br>
